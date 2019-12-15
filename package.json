@@ -1,0 +1,16 @@
+{
+  "name": "cranium-roller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cranium.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jonslootweg.github.io/cranium-roller",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
